@@ -5,7 +5,7 @@ int main (void) {
 	double input = 0.0;
 	int num = 0;
 
-	for (num=0; input>=0.0;num++) {
+	for (num=0; input>=0.0;num++ls) {
 		total += input;
 		printf("input real number: \n");
 		scanf("%lf", &input);
